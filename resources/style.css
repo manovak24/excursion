@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    margin: 0px;
+    text-align: center;
+    font-family: verdana;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.title-row {
+    font-size: 50px;
+}
+
+.main-container-header, .main-container-footer {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.main-container-info {
+    font-size: 21px;
+    color: grey;
+}
+
+footer {
+    text-align: right;
+    color: grey;
+}
